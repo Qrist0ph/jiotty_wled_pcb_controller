@@ -1,0 +1,14 @@
+Comment,Designator,Footprint,LCSC Part Number
+100nF,"    C1, C2",Capacitor_SMD:C_0805_2012Metric,C495959
+1000µF,    C3,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,C189254
+Fuse,    F1,PTF-77:PTF_77,C717030
+Conn_01x04_Male,    J1,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal",C474922
+Conn_01x05_Male,    J2,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,C5156614
+Conn_01x03,    J3,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C474921
+10kΩ,"    R1, R2, R3, R4, R5",Resistor_SMD:R_0805_2012Metric,C416062
+330Ω,    R6,Resistor_SMD:R_0805_2012Metric,C328393
+SW_Reset,    SW1,Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2,C72443
+SW_GPIO0,    SW2,Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2,C72443
+AMS1117-3.3,    U1,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C6186
+ESP-12F,    U2,RF_Module:ESP-12E,C82891
+SN74AHCT125D,    U3,SN74AHCT125D:SN74AHCT125D,C155176

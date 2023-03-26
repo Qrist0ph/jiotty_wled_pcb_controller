@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "PTF-77")(type "KiCad")(uri "C:/Users/einst/Downloads/pcb-ws2812-wifi-controller-master/Libraries/PCB Footprints/PTF-77")(options "")(descr ""))
+  (lib (name "SN74AHCT125D")(type "KiCad")(uri "C:/Users/einst/Downloads/pcb-ws2812-wifi-controller-master/Libraries/PCB Footprints/SN74AHCT125D")(options "")(descr ""))
+)

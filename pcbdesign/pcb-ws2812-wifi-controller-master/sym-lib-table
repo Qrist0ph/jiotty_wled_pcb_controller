@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "WS2812Controller-rescue")(type "Legacy")(uri "${KIPRJMOD}/WS2812Controller-rescue.lib")(options "")(descr ""))
+  (lib (name "SN74AHCT125D")(type "KiCad")(uri "C:/Users/einst/Downloads/pcb-ws2812-wifi-controller-master/Libraries/Schematic Symbols/SN74AHCT125D/SN74AHCT125D.kicad_sym")(options "")(descr ""))
+)
